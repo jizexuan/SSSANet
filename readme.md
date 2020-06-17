@@ -1,7 +1,7 @@
 # S3ANet: Spatial-Scattering Separated Attention Network for Polarimetric SAR Image Classiﬁcation 
-![Image](https://github.com/fanzhaohao123/SSSANet/blob/master/img/sssa.png)
-![Image](https://github.com/fanzhaohao123/SSSANet/blob/master/img/rsssa.png)
-![Image](https://github.com/fanzhaohao123/SSSANet/blob/master/img/networks.png)
+![Image](https://github.com/jizexuan/SSSANet/blob/master/img/sssa.png)
+![Image](https://github.com/jizexuan/SSSANet/blob/master/img/rsssa.png)
+![Image](https://github.com/jizexuan/SSSANet/blob/master/img/networks.png)
 
 ## Installation
 
