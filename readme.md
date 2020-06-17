@@ -1,7 +1,6 @@
 # S3ANet: Spatial-Scattering Separated Attention Network for Polarimetric SAR Image Classiﬁcation 
-![Image](https://github.com/jizexuan/SSSANet/blob/master/img/sssa.png)
-![Image](https://github.com/jizexuan/SSSANet/blob/master/img/rsssa.png)
-![Image](https://github.com/jizexuan/SSSANet/blob/master/img/networks.png)
+## Environment
+Pytorch 0.4.1; Python 3.6.3
 
 ## Installation
 
@@ -17,7 +16,9 @@ run main.py
 
 ## Testing
 run testReports.py
-
+![Image](https://github.com/jizexuan/SSSANet/blob/master/img/sssa.png)
+![Image](https://github.com/jizexuan/SSSANet/blob/master/img/rsssa.png)
+![Image](https://github.com/jizexuan/SSSANet/blob/master/img/networks.png)
 ## Classification results
 
 ###  Oberpfaffenhofen, E-SAR, L-Band
